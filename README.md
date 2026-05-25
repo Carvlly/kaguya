@@ -1,1 +1,3 @@
 # kaguya
+
+init
